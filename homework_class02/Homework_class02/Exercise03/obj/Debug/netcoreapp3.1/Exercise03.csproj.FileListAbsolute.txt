@@ -1,0 +1,14 @@
+C:\Users\tpeli\Desktop\SEDC_Homeworks_C#\Homeworks_C_Sharp\homework_class02\Homework_class02\Exercise03\bin\Debug\netcoreapp3.1\Exercise03.exe
+C:\Users\tpeli\Desktop\SEDC_Homeworks_C#\Homeworks_C_Sharp\homework_class02\Homework_class02\Exercise03\bin\Debug\netcoreapp3.1\Exercise03.deps.json
+C:\Users\tpeli\Desktop\SEDC_Homeworks_C#\Homeworks_C_Sharp\homework_class02\Homework_class02\Exercise03\bin\Debug\netcoreapp3.1\Exercise03.runtimeconfig.json
+C:\Users\tpeli\Desktop\SEDC_Homeworks_C#\Homeworks_C_Sharp\homework_class02\Homework_class02\Exercise03\bin\Debug\netcoreapp3.1\Exercise03.runtimeconfig.dev.json
+C:\Users\tpeli\Desktop\SEDC_Homeworks_C#\Homeworks_C_Sharp\homework_class02\Homework_class02\Exercise03\bin\Debug\netcoreapp3.1\Exercise03.dll
+C:\Users\tpeli\Desktop\SEDC_Homeworks_C#\Homeworks_C_Sharp\homework_class02\Homework_class02\Exercise03\bin\Debug\netcoreapp3.1\Exercise03.pdb
+C:\Users\tpeli\Desktop\SEDC_Homeworks_C#\Homeworks_C_Sharp\homework_class02\Homework_class02\Exercise03\obj\Debug\netcoreapp3.1\Exercise03.csproj.AssemblyReference.cache
+C:\Users\tpeli\Desktop\SEDC_Homeworks_C#\Homeworks_C_Sharp\homework_class02\Homework_class02\Exercise03\obj\Debug\netcoreapp3.1\Exercise03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tpeli\Desktop\SEDC_Homeworks_C#\Homeworks_C_Sharp\homework_class02\Homework_class02\Exercise03\obj\Debug\netcoreapp3.1\Exercise03.AssemblyInfoInputs.cache
+C:\Users\tpeli\Desktop\SEDC_Homeworks_C#\Homeworks_C_Sharp\homework_class02\Homework_class02\Exercise03\obj\Debug\netcoreapp3.1\Exercise03.AssemblyInfo.cs
+C:\Users\tpeli\Desktop\SEDC_Homeworks_C#\Homeworks_C_Sharp\homework_class02\Homework_class02\Exercise03\obj\Debug\netcoreapp3.1\Exercise03.csproj.CoreCompileInputs.cache
+C:\Users\tpeli\Desktop\SEDC_Homeworks_C#\Homeworks_C_Sharp\homework_class02\Homework_class02\Exercise03\obj\Debug\netcoreapp3.1\Exercise03.dll
+C:\Users\tpeli\Desktop\SEDC_Homeworks_C#\Homeworks_C_Sharp\homework_class02\Homework_class02\Exercise03\obj\Debug\netcoreapp3.1\Exercise03.pdb
+C:\Users\tpeli\Desktop\SEDC_Homeworks_C#\Homeworks_C_Sharp\homework_class02\Homework_class02\Exercise03\obj\Debug\netcoreapp3.1\Exercise03.genruntimeconfig.cache
